@@ -1,0 +1,12 @@
+description: null
+github_branch: SERVOHUB01A
+github_repo: SERVOHUB01
+github_url: https://github.com/mlab-modules/SERVOHUB01
+homepage: false
+images:
+- doc/img/SERVOHUB01A_top_small.jpg
+- doc/img/SERVOHUB01A_top_big.jpg
+- doc/img/SERVOHUB01A_QRcode.png
+mark: 50
+tags: []
+title: SERVOHUB01
