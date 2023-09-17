@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/SERVOHUB01
-summary: null
+summary: Hub interface for powering and driving standard RC servos from an MCU.

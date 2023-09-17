@@ -1,4 +1,4 @@
-description: null
+description: Hub interface for powering and driving standard RC servos from an MCU.
 github_branch: SERVOHUB01A
 github_repo: SERVOHUB01
 github_url: https://github.com/mlab-modules/SERVOHUB01
